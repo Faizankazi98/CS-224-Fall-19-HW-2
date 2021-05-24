@@ -14,3 +14,4 @@ public:
 
   void show_state(); // show current game state.
 };
+//kazi2
