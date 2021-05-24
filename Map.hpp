@@ -1,7 +1,7 @@
 class Map {
 private:
   Location* m_start; // the starting location of the map.
-
+//3rd branch
 public:
   Map();  // initialize attributes appropriately.
   ~Map(); // deallocate memory for all roads and locations.
